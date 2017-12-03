@@ -2,7 +2,7 @@
 //Modules
 var mongoose         =   require('mongoose');
 //Utils
-var errorHandler     =   require('../errors/errorHandler.js');
+var errorHandler     =   require('../handlers/errorHandler.js');
 //Model
 var Task             =   db.model('Tasks');
     
