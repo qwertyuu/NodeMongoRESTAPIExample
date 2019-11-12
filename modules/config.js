@@ -2,7 +2,7 @@
 
 const HOST = 'localhost',
 	PORT = 3000,
-	DB = 'todo',
+	DB = 'library',
 	URI = 'mongodb://' + HOST + '/' + DB;
 
 module.exports = {
